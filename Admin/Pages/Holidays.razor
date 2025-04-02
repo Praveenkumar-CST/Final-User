@@ -34,7 +34,6 @@
                 <tr>
                     <th>Date</th>
                     <th>Name</th>
-                    <th>Select</th>
                 </tr>
             </thead>
             <tbody>
@@ -43,23 +42,15 @@
                     <tr>
                         <td>@FormatDate(holiday.Date)</td>
                         <td>@holiday.Description</td>
-                        <td>
-                            <input type="checkbox" 
-                                   @bind="holiday.IsSelected" 
-                                   @bind:after="async () => await UpdateSelection()"
-                                   disabled="@(selectedCount >= 2 && !holiday.IsSelected)" />
-                        </td>
                     </tr>
                 }
             </tbody>
         </table>
-        @if (selectedCount > 0)
-        {
-            <div class="save-section">
-                <button class="save-button" @onclick="SaveSelection">Save Selection (@selectedCount selected)</button>
-            </div>
-        }
     </div>
+</div>
+
+<div class="edit-section">
+    <button class="edit-button" @onclick="NavigateToEdit">Edit Optional Holidays</button>
 </div>
 
 @if (isLoading)
@@ -80,6 +71,7 @@ else if (holidays.Length == 0)
 }
 
 <style>
+    /* Same styles as original, with edit button addition */
     body {
         background-color: #ffffff;
         color: #ffffff;
@@ -162,12 +154,12 @@ else if (holidays.Length == 0)
         width: 80%;
     }
 
-    .save-section {
+    .edit-section {
         margin-top: 15px;
         text-align: center;
     }
 
-    .save-button {
+    .edit-button {
         padding: 8px 16px;
         background-color: #1e90ff;
         color: white;
@@ -177,13 +169,8 @@ else if (holidays.Length == 0)
         font-size: 14px;
     }
 
-    .save-button:hover {
+    .edit-button:hover {
         background-color: #4682b4;
-    }
-
-    .save-button:disabled {
-        background-color: #666;
-        cursor: not-allowed;
     }
 </style>
 
@@ -195,7 +182,6 @@ else if (holidays.Length == 0)
     private bool isLoading = true;
     private string rawResponse = "No response yet.";
     private System.Timers.Timer? timer;
-    private int selectedCount => optionalHolidays.Count(h => h.IsSelected);
 
     public class Event
     {
@@ -203,7 +189,6 @@ else if (holidays.Length == 0)
         public string Date { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;
         public string HolidayType { get; set; } = string.Empty;
-        public bool IsSelected { get; set; } = false;
     }
 
     protected override async Task OnInitializedAsync()
@@ -253,28 +238,9 @@ else if (holidays.Length == 0)
         await InvokeAsync(StateHasChanged);
     }
 
-    private async Task UpdateSelection()
+    private void NavigateToEdit()
     {
-        await InvokeAsync(StateHasChanged);
-    }
-
-    private async Task SaveSelection()
-    {
-        try
-        {
-            var selectedHolidays = optionalHolidays.Where(h => h.IsSelected).ToArray();
-            errorMessage = $"Saved {selectedCount} optional holidays successfully!";
-            
-            foreach (var holiday in optionalHolidays)
-            {
-                holiday.IsSelected = false;
-            }
-        }
-        catch (Exception ex)
-        {
-            errorMessage = $"Error saving selection: {ex.Message}";
-        }
-        await InvokeAsync(StateHasChanged);
+        Navigation.NavigateTo("/edit-holidays");
     }
 
     public string FormatDate(string date)
