@@ -1,0 +1,838 @@
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/CalendarApi.csproj.AssemblyReference.cache
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/CalendarApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/CalendarApi.AssemblyInfoInputs.cache
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/CalendarApi.AssemblyInfo.cs
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/CalendarApi.csproj.CoreCompileInputs.cache
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/CalendarApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/CalendarApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/appsettings.Development.json
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/appsettings.json
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/CalendarApi.staticwebassets.endpoints.json
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/CalendarApi
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/CalendarApi.deps.json
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/CalendarApi.runtimeconfig.json
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/CalendarApi.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/CalendarApi.pdb
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Azure.Core.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Azure.Identity.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.ClientModel.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/scopedcss/bundle/CalendarApi.styles.css
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/staticwebassets.build.json
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/staticwebassets.development.json
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.CalendarApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.CalendarApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.build.CalendarApi.props
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CalendarApi.props
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CalendarApi.props
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/Calendar.4E4C6CA9.Up2Date
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/CalendarApi.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/refint/CalendarApi.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/CalendarApi.pdb
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/CalendarApi.genruntimeconfig.cache
+/Users/praveenkumar/Desktop/Admin/CalendarApi/obj/Debug/net9.0/ref/CalendarApi.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Humanizer.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.CodeDom.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Admin/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/appsettings.Development.json
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/appsettings.json
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/CalendarApi.staticwebassets.endpoints.json
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/CalendarApi
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/CalendarApi.deps.json
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/CalendarApi.runtimeconfig.json
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/CalendarApi.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/CalendarApi.pdb
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Azure.Core.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Azure.Identity.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Humanizer.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.ClientModel.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.CodeDom.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.Composition.Convention.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.Drawing.Common.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.Memory.Data.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.Security.Permissions.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/CalendarApi.csproj.AssemblyReference.cache
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/CalendarApi.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/CalendarApi.AssemblyInfoInputs.cache
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/CalendarApi.AssemblyInfo.cs
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/CalendarApi.csproj.CoreCompileInputs.cache
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/CalendarApi.MvcApplicationPartsAssemblyInfo.cs
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/CalendarApi.MvcApplicationPartsAssemblyInfo.cache
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/CalendarApi.sourcelink.json
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/scopedcss/bundle/CalendarApi.styles.css
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/staticwebassets.build.json
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/staticwebassets.development.json
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.CalendarApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.CalendarApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.build.CalendarApi.props
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CalendarApi.props
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CalendarApi.props
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/staticwebassets.pack.json
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/Calendar.4E4C6CA9.Up2Date
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/CalendarApi.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/refint/CalendarApi.dll
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/CalendarApi.pdb
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/CalendarApi.genruntimeconfig.cache
+/Applications/Important/CALENDAR works/Admin 4/CalendarApi/obj/Debug/net9.0/ref/CalendarApi.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/appsettings.Development.json
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/appsettings.json
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/CalendarApi.staticwebassets.endpoints.json
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/CalendarApi
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/CalendarApi.deps.json
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/CalendarApi.runtimeconfig.json
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/CalendarApi.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/CalendarApi.pdb
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Azure.Core.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Azure.Identity.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Humanizer.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.ClientModel.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.CodeDom.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/CalendarApi.csproj.AssemblyReference.cache
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/CalendarApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/CalendarApi.AssemblyInfoInputs.cache
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/CalendarApi.AssemblyInfo.cs
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/CalendarApi.csproj.CoreCompileInputs.cache
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/CalendarApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/CalendarApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/scopedcss/bundle/CalendarApi.styles.css
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/staticwebassets.build.json
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/staticwebassets.development.json
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.CalendarApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.CalendarApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.build.CalendarApi.props
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CalendarApi.props
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CalendarApi.props
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/Calendar.4E4C6CA9.Up2Date
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/CalendarApi.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/refint/CalendarApi.dll
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/CalendarApi.pdb
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/CalendarApi.genruntimeconfig.cache
+/Users/praveenkumar/Desktop/Final-Admin-main/CalendarApi/obj/Debug/net9.0/ref/CalendarApi.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/appsettings.Development.json
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/appsettings.json
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/CalendarApi.staticwebassets.endpoints.json
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/CalendarApi
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/CalendarApi.deps.json
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/CalendarApi.runtimeconfig.json
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/CalendarApi.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/CalendarApi.pdb
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Azure.Core.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Azure.Identity.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Humanizer.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.ClientModel.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.CodeDom.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/CalendarApi.csproj.AssemblyReference.cache
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/CalendarApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/CalendarApi.AssemblyInfoInputs.cache
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/CalendarApi.AssemblyInfo.cs
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/CalendarApi.csproj.CoreCompileInputs.cache
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/CalendarApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/CalendarApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/scopedcss/bundle/CalendarApi.styles.css
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/staticwebassets.build.json
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/staticwebassets.development.json
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.CalendarApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.CalendarApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.build.CalendarApi.props
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CalendarApi.props
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CalendarApi.props
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/Calendar.4E4C6CA9.Up2Date
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/CalendarApi.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/refint/CalendarApi.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/CalendarApi.pdb
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/CalendarApi.genruntimeconfig.cache
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/ref/CalendarApi.dll
+/Users/praveenkumar/Desktop/User/CalendarApi/obj/Debug/net9.0/CalendarApi.sourcelink.json
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/appsettings.Development.json
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/appsettings.json
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/CalendarApi.staticwebassets.endpoints.json
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/CalendarApi
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/CalendarApi.deps.json
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/CalendarApi.runtimeconfig.json
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/CalendarApi.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/CalendarApi.pdb
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Azure.Core.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Azure.Identity.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Humanizer.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.ClientModel.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.CodeDom.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/praveenkumar/Desktop/User/Server/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/CalendarApi.csproj.AssemblyReference.cache
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/CalendarApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/CalendarApi.AssemblyInfoInputs.cache
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/CalendarApi.AssemblyInfo.cs
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/CalendarApi.csproj.CoreCompileInputs.cache
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/CalendarApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/CalendarApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/CalendarApi.sourcelink.json
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/scopedcss/bundle/CalendarApi.styles.css
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/staticwebassets.build.json
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/staticwebassets.development.json
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/staticwebassets/msbuild.CalendarApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/staticwebassets/msbuild.CalendarApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/staticwebassets/msbuild.build.CalendarApi.props
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CalendarApi.props
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CalendarApi.props
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/Calendar.4E4C6CA9.Up2Date
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/CalendarApi.dll
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/refint/CalendarApi.dll
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/CalendarApi.pdb
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/CalendarApi.genruntimeconfig.cache
+/Users/praveenkumar/Desktop/User/Server/obj/Debug/net9.0/ref/CalendarApi.dll
